@@ -1,6 +1,6 @@
 <h1> Projeto Figma Responsivo</h1>
 
-<h3> Com a Evolução dos estudos, o desafio proposto era criar um design responsivo pro projeto do desafio figma</h3>
+<h3> Com a Evolução dos estudos, o desafio proposto era criar um design responsivo pro projeto do desafio figma.</h3>
 <br>
 <br>
 <h2> Landscape </h2>
